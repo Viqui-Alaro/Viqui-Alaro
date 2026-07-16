@@ -1,4 +1,3 @@
-### Hi! 👋🏼 I'm Viqui Alaro .
 
 ### Hi! 👋🏼 I'm Viqui Alaro.
 
