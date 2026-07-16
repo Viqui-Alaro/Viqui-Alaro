@@ -29,5 +29,5 @@
 
 <!-- Animación de la serpiente -->
 <div>
-  <img src="https://raw.githubusercontent.com/Viqui-Alaro/Viqui-Alaro/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Viqui-Alaro/Viqui-Alaro/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
