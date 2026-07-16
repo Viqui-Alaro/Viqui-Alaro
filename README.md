@@ -5,7 +5,7 @@ Android Developer | Java | Kotlin | Spring Boot | Python
 </h3>
 
 <p align="center">
-Passionate about creating mobile applications, backend services and learning new technologies every day.
+Passionate about Android Development, Backend and Artificial Intelligence.
 </p>
 
 ---
@@ -13,22 +13,22 @@ Passionate about creating mobile applications, backend services and learning new
 ## 👩‍💻 About Me
 
 - 💼 Android Developer
-- 🌱 Currently learning **Spring Boot, AI and Big Data**
-- 📱 Experience developing Android applications with **Java** and **Kotlin**
-- ⚙️ Backend development with **Spring Boot**
+- 🌱 Learning AI, Big Data and Spring Boot
+- 📱 Java & Kotlin Developer
+- ⚙️ Backend with Spring Boot
 - 🗄️ SQL Databases
-- 📫 Email: **viquialaro241@gmail.com**
+- 📫 Contact: **viquialaro241@gmail.com**
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img height="170em"
+<img height="180em"
 src="https://github-readme-stats.vercel.app/api?username=Viqui-Alaro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
-<img height="170em"
+<img height="180em"
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viqui-Alaro&layout=compact&langs_count=8&theme=dracula"/>
 
 </p>
@@ -42,7 +42,7 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=Viqui-Alaro&theme=dr
 
 ---
 
-## 🚀 Technologies
+# 🚀 Technologies
 
 <p align="left">
 
@@ -74,7 +74,7 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=Viqui-Alaro&theme=dr
 
 ---
 
-## 🌐 Connect with me
+# 🌎 Connect with me
 
 <p>
 
@@ -94,38 +94,27 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=Viqui-Alaro&theme=dr
 
 ---
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
 <p align="center">
 
-<img
-src="https://github-profile-trophy.vercel.app/?username=Viqui-Alaro&theme=dracula&margin-w=15&margin-h=15&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Viqui-Alaro&theme=dracula&column=4&margin-w=15&margin-h=15"/>
 
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+# 🐍 Contribution Snake
 
 <p align="center">
 
-<picture>
-<source media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/Viqui-Alaro/Viqui-Alaro/output/github-contribution-grid-snake-dark.svg"/>
-
-<source media="(prefers-color-scheme: light)"
-srcset="https://raw.githubusercontent.com/Viqui-Alaro/Viqui-Alaro/output/github-contribution-grid-snake.svg"/>
-
-<img alt="github contribution grid snake animation"
-src="https://raw.githubusercontent.com/Viqui-Alaro/Viqui-Alaro/output/github-contribution-grid-snake.svg"/>
-
-</picture>
+<img src="https://raw.githubusercontent.com/Viqui-Alaro/Viqui-Alaro/output/github-contribution-grid-snake.svg"/>
 
 </p>
 
 ---
 
-<p align="center">
+<p align="leght">
 
 <img src="https://komarev.com/ghpvc/?username=Viqui-Alaro&label=Profile%20Views&color=blueviolet&style=flat"/>
 
