@@ -31,7 +31,7 @@
 </p>
 
 ---
-
+<!-- Snake -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Viqui-Alaro/Viqui-Alaro/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Viqui-Alaro/Viqui-Alaro/output/github-contribution-grid-snake.svg" alt="snake" />
 </p>
